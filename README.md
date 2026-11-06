@@ -122,7 +122,7 @@ The six-function instruction bank was defined by the authors and has not been va
 @inproceedings{serugunda2026routing,
   author    = {Serugunda, Henry Mukalazi and Ouyang, Jianquan and Katende, Jacob},
   title     = {Reward-Guided, Representation-Conditioned Instruction Routing for Clinical LLM Fine-Tuning},
-  booktitle = {2026 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), BHI Workshop},
+  booktitle = {2026 IEEE International Conference on Bioinformatics and Biomedicine},
   year      = {2026}
 }
 ```
