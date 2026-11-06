@@ -4,7 +4,7 @@ Code and result files for the paper:
 
 > **Reward-Guided, Representation-Conditioned Instruction Routing for Clinical LLM Fine-Tuning**
 > Henry Mukalazi Serugunda, Ouyang Jianquan, Jacob Katende.
-> IEEE BIBM 2026, BHI Workshop.
+> IEEE BIBM 2026.
 
 During fine-tuning, a small policy network reads a frozen Bio-ClinicalBERT embedding of each training example and chooses one of six instruction functions for it. The chosen instruction is used to build the training example, and the policy is updated with a reward equal to the negative target-output loss of the language model. The repository contains the router, five comparison conditions, the evaluation pipeline and the analysis scripts used in the paper.
 
