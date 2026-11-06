@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Reward-Guided, Representation-Conditioned Instruction Routing for Clinical LLM Fine-Tuning"
+authors:
+  - family-names: Serugunda
+    given-names: Henry Mukalazi
+  - family-names: Ouyang
+    given-names: Jianquan
+  - family-names: Katende
+    given-names: Jacob
+repository-code: "https://github.com/keriel2/clinical-instruction-routing"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Reward-Guided, Representation-Conditioned Instruction Routing for Clinical LLM Fine-Tuning"
+  authors:
+    - family-names: Serugunda
+      given-names: Henry Mukalazi
+    - family-names: Ouyang
+      given-names: Jianquan
+    - family-names: Katende
+      given-names: Jacob
+  collection-title: "2026 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), BHI Workshop"
+  year: 2026

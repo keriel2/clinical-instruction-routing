@@ -1,0 +1,23 @@
+# Model weights and checkpoints
+checkpoint-*/
+*.bin
+*.safetensors
+*.pt
+*.pth
+adapter_model*
+outputs/
+runs/
+
+# Large or derived data
+data/raw/
+data/processed/
+*.pkl
+*.parquet
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.log
+nohup.out
+.env

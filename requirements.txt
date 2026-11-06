@@ -1,0 +1,19 @@
+# Replaced by exact versions from the training server when make_repo.sh runs.
+torch
+transformers
+peft
+bitsandbytes
+deepspeed
+accelerate
+datasets
+pandas
+numpy
+scipy
+scikit-learn
+rouge-score
+bert-score
+nltk
+spacy
+matplotlib
+seaborn
+psutil
